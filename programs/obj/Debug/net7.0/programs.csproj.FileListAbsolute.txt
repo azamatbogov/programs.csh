@@ -1,0 +1,14 @@
+C:\Users\azama\source\repos\programs\programs\bin\Debug\net7.0\programs.exe
+C:\Users\azama\source\repos\programs\programs\bin\Debug\net7.0\programs.deps.json
+C:\Users\azama\source\repos\programs\programs\bin\Debug\net7.0\programs.runtimeconfig.json
+C:\Users\azama\source\repos\programs\programs\bin\Debug\net7.0\programs.dll
+C:\Users\azama\source\repos\programs\programs\bin\Debug\net7.0\programs.pdb
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\programs.AssemblyInfoInputs.cache
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\programs.AssemblyInfo.cs
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\programs.csproj.CoreCompileInputs.cache
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\programs.dll
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\refint\programs.dll
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\programs.pdb
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\programs.genruntimeconfig.cache
+C:\Users\azama\source\repos\programs\programs\obj\Debug\net7.0\ref\programs.dll
